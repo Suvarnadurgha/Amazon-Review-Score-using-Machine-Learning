@@ -33,10 +33,6 @@ score_level - Low, medium, high (prediction goal).
 
 Installation
 
-Clone the repository:
-git clone https://github.com/your-username/amazon-review-prediction.git
-cd amazon-review-prediction
-
 Install the required dependencies:
 pip install -r requirements.txt
 
